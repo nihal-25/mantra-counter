@@ -15,11 +15,6 @@ Data persists using AsyncStorage so you never lose progress.
 
 ---
 
-## 📱 Screenshots
-> *(Add screenshots of your app here)*
-
----
-
 ## 🛠 Installation
 
 1. **Clone the repository**
